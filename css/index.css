@@ -1,0 +1,25 @@
+body {
+    background-image: url(http://www.myeasyrecipes.net/wp-content/uploads/2013/03/white-chocolate-mini-cakes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+	color: #FFFFFF;
+	background-color: #000000;
+	text-align: center;
+}
+
+a{
+	color: #FFFFFF;
+	background-color: #000000;
+	text-align: center;
+	display: block;
+	font-size: 50pt;
+}
+
+img {
+    display: inline;
+    border-radius: 10px;
+    width: 32%;
+}
